@@ -130,3 +130,51 @@ def obtener_datos_focos():
             "Recomendación": "Instalación de biodigestores y trampas de grasa industrial."
         },
         {
+            "Sector": "Canal Vía - Sector Bellavista",
+            "lat": -4.8912, "lon": -80.6810,
+            "Tipo": "Residuos Urbanos e Inertes",
+            "Nivel": "Crítico", "Color": "red",
+            "Residuos": "Escombros de construcción, plásticos",
+            "Causas": "Disposición clandestina de materiales por vehículos menores.",
+            "Consecuencias": "Obstrucción del flujo hidráulico ante lluvias.",
+            "Recomendación": "Fiscalización con cámaras y multas por arrojo de escombros."
+        },
+        {
+            "Sector": "Urb. Santa Rosa - Zonas Descampadas",
+            "lat": -4.9150, "lon": -80.6910,
+            "Tipo": "Acumulación Doméstica",
+            "Nivel": "Moderado", "Color": "orange",
+            "Residuos": "Bolsas de basura, maleza, cartones",
+            "Causas": "Baja frecuencia de paso del camión recolector.",
+            "Consecuencias": "Microbotaderos informales en esquinas comunitarias.",
+            "Recomendación": "Reestructuración de horarios de rutas nocturnas."
+        },
+        {
+            "Sector": "Puente Isaías Garrido (Viejo)",
+            "lat": -4.9065, "lon": -80.6990,
+            "Tipo": "Contaminación de Rivera",
+            "Nivel": "Moderado", "Color": "orange",
+            "Residuos": "Empaques descartables, matorrales quemados",
+            "Causas": "Afluencia turística/comercial sin tachos integrados.",
+            "Consecuencias": "Deterioro paisajístico e impacto ribereño.",
+            "Recomendación": "Puntos limpios ecológicos y señalética ambiental."
+        },
+        {
+            "Sector": "Zona Industrial - Salida a Piura",
+            "lat": -4.9220, "lon": -80.6720,
+            "Tipo": "Efluentes Industriales",
+            "Nivel": "Moderado", "Color": "orange",
+            "Residuos": "Agua residual procesada, empaques masivos",
+            "Causas": "Descargas puntuales sin monitoreo en tiempo real.",
+            "Consecuencias": "Degradación del suelo periférico.",
+            "Recomendación": "Auditorías ambientales periódicas a empresas operadoras."
+        },
+        {
+            "Sector": "Transversal Tarapacá - Zona Comercial",
+            "lat": -4.8995, "lon": -80.6870,
+            "Tipo": "Residuos Sólidos Urbanos",
+            "Nivel": "Leve", "Color": "green",
+            "Residuos": "Papeles, botellas de plástico, envoltorios",
+            "Causas": "Tránsito peatonal elevado en horario comercial.",
+            "Consecuencias": "Suciedad visual y desbordes puntuales de depósitos.",
+            "Recomend
